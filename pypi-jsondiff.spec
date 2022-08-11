@@ -4,7 +4,7 @@
 #
 Name     : pypi-jsondiff
 Version  : 2.0.0
-Release  : 33
+Release  : 34
 URL      : https://files.pythonhosted.org/packages/dd/13/2b691afe0a90fb930a32b8fc1b0fd6b5bdeaed459a32c5a58dc6654342da/jsondiff-2.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/dd/13/2b691afe0a90fb930a32b8fc1b0fd6b5bdeaed459a32c5a58dc6654342da/jsondiff-2.0.0.tar.gz
 Summary  : Diff JSON and JSON-like structures in Python
