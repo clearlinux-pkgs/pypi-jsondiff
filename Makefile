@@ -1,5 +1,5 @@
 PKG_NAME := pypi-jsondiff
-URL = https://files.pythonhosted.org/packages/f0/7f/bdcfaa610565d05eb0adf28f497761f8d7f4f4089af5adafaf377ff0c45b/jsondiff-2.1.2.tar.gz
+URL = https://files.pythonhosted.org/packages/90/48/e86c93e46589eda155aaef6adc2131f0218991ac1a20c14bf1b0605c822b/jsondiff-2.2.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
